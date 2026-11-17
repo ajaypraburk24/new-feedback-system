@@ -1,0 +1,6 @@
+{
+  "name": "Student Feedback System",
+  "description": "University-grade full-stack Student Feedback and Faculty Performance Evaluation System with role-based dashboards, interactive analytics, and multi-format report exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
